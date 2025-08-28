@@ -41,7 +41,7 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/thenamekavyasingh/algovisuals.git
+   git clone https://github.com/thenamekavyasingh/AlgoWhiz.git
    cd algovisuals
    npm install
    npm run dev
