@@ -60,7 +60,7 @@
 
 ###👩‍💻 Author
 
-Made with ❤️ by Kavya Singh
+Made with ❤️ by Kavya Singh <br>
 🌟 If you liked the project, don’t forget to star ⭐ the repo !!
 
 --- 
