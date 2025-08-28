@@ -28,7 +28,7 @@ Here's how the app looks :
 
 ![Screenshot 1](https://github.com/thenamekavyasingh/AlgoWhiz/blob/master/image/s1.png)
 
-![Screenshot 1](images/s2.png)
+![Screenshot 1](https://github.com/thenamekavyasingh/AlgoWhiz/blob/master/image/s2.png)
 
 ![Screenshot 1](images/s3.png)
 
