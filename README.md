@@ -23,6 +23,9 @@
 ---
 
 ## Preview
+
+Here's how the app looks : 
+
 ![Screenshot 1](images/s1.png)
 
 ![Screenshot 1](images/s2.png)
